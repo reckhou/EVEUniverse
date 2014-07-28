@@ -5310,7 +5310,7 @@
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include,
-					/Developer/Tools/boost,
+					"/Users/reckhou/projects/road2immortal-android/sxdandroid2/libs/boost/include",
 				);
 				INFOPLIST_FILE = "Neocom/Neocom-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
@@ -5344,7 +5344,7 @@
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include,
-					/Developer/Tools/boost,
+					"/Users/reckhou/projects/road2immortal-android/sxdandroid2/libs/boost/include",
 				);
 				INFOPLIST_FILE = "Neocom/Neocom-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
